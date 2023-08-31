@@ -4,8 +4,7 @@
 
 
 def island_perimeter(grid):
-    """Computes the perimeter of an 
-    Island with no lakes.
+    """Computes the perimeter of an island with no lakes.
     """
     perimeter = 0
     if type(grid) != list:
